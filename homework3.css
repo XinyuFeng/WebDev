@@ -1,0 +1,97 @@
+*{
+    font-family:Lucida;
+    margin: 0;
+    border: 0;
+    padding: 0
+}
+.bar{
+    height: 1px;
+    background-color:white;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+#context{
+    display: table;
+    text-align: center;
+    height:60%;
+}
+#top{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: arial;
+    font-weight: bold;
+    margin-top: 3%;
+    margin-left: 30%;
+    margin-right: 30%;
+    position: relative;
+    height: 43%
+}
+#location{
+    padding-top: 12%;
+    padding-bottom: 4%;
+}
+#No-cont{
+    margin: 0 auto;
+    display: table;
+    /*margin-left: 23%;
+    margin-right: 23%;*/
+}
+#cont{
+    /*margin: 0 auto;*/
+    vertical-align: middle;
+    padding-top: 0;
+    margin-top:0;
+    border-top: 0;
+    height: 100;
+    font-size: 100;
+    position: relative;
+    float: left;
+}
+#No{
+    /*margin:0 auto;*/
+    text-decoration: underline;
+    padding-top: 10;
+    height: 120;
+    font-size: 50;
+    position: relative;
+    float: left;
+}
+#bottum{
+    margin-top: 3%;
+    background: url(sayhello.png);
+    background-size: cover;
+
+}
+#container{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#mid{
+    height:20%;
+}
+.footer{
+    clear: both;
+    display: table;
+    position: relative;
+    height: 20%;
+    width: 100%;
+    color: white;
+    background-color: black;
+}
+#headquarter{
+    float: left;
+}
+#office{
+    float:left;
+}
+.contact-info{
+    float: left;
+}
+.footer-info{
+    float: left;
+}
+.addr{
+    position: relative;
+}
