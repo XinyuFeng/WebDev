@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: arial;
+    text-align: center;
+}
+
+.bar{
+    height: 1px;
+    background-color:gray;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+body{
+    width: 1171px;
+}
+.contet{
+    height: 900px;
+    text-align: center;
+}
+#top{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: arial;
+    margin-top: 50px;
+    position: absolute;
+    width: 430;
+    height: 260;
+    margin-left: 370;
+}
+#location{
+    font-family: arial;
+    font-size: 15;
+    padding-top: 60px;
+    padding-bottom: 25px;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+#No-cont{
+    margin: 0 auto;
+    display: table;
+
+    /*margin-left: 23%;
+    margin-right: 23%;*/
+}
+#cont{
+    /*margin: 0 auto;*/
+    
+    vertical-align: middle;
+    padding-top: 0;
+    margin-top:0;
+    border-top: 0;
+    height: 100;
+    font-size: 120;
+    position: relative;
+
+    float: left;
+    color: white;
+}
+#number{
+    font-family: "Helvetica Neue 55", Sans-serif;
+}
+#No{
+    /*margin:0 auto;*/
+    font-family: arial;
+    padding-top: 10;
+    padding-bottom: 10px;
+    border-bottom: 6px solid white;
+
+    height: 60;
+    font-size: 60;
+    position: relative;
+    float: left;
+    color: white;
+}
+#bottum{
+    position: absolute;
+    background: url(sayhello.png);
+    top: 350px;
+    width: 1170;
+    height: 150;
+    background-size: cover;
+
+}
+#container{
+    text-align: center;
+}
+#yellow{
+    color: #b89b1d;
+    font-size: 13;
+    font-family: arial;
+    padding-top: 80;
+}
+#self{
+    font-size: 17;
+    color: black;
+    font-family: arial;
+    padding-left: 280;
+    padding-right: 280;
+}
+#button1{
+    height: 60;
+    width: 280;
+    background-color: white;
+    border-color: black;
+    border:3px solid;
+    font-size: 12;
+}
+#mid{
+    background-color: black;
+    color: white;
+    position: absolute;
+    text-align: center;
+    width: 1171;
+    height: 190;
+    top: 720px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #3c3c3c;
+}
+#article{
+    position: absolute;
+    width: 440;
+    height: 200;
+    margin-top: 15px;
+    padding-top: 90px;
+    text-align: center;
+    font-size: 12;
+    border-right: 1px solid #3c3c3c;
+}
+#signup{
+    position: absolute;
+    width: 731;
+    height: 200;
+    left: 441px;
+    padding-top: 60px;
+    font-size: 12;
+    color: #b89b1d;
+}
+#signcon{
+    padding-right: 320;
+}
+#email{
+    position: absolute;
+    left: 75;
+    top: 100;
+    font-size: 18;
+    text-align: left;
+    padding-top: 5;
+    padding-left: 10;
+    width: 317px;
+    height: 50px;
+}
+#submit{
+    width: 230;
+    height: 60;
+    position: absolute;
+    background-color: black;
+    color: white;
+    left: 400; 
+    top: 97;
+    font-size: 12;
+    border-color: white;
+    border:3px solid;
+}
+.footer{
+    clear: both;
+    display: table;
+    position: absolute;
+    width: 1171;
+    height: 340;
+    top: 920px;
+    color: white;
+    background-color: black;
+}
+#headquarter{
+    position: absolute;
+    width: 455;
+    height: 300;
+    padding-top: 40;
+    padding-left: 45;
+    text-align: left;
+}
+#title{
+    text-align: left;
+    color: #b89b1d;
+    font-size: 16;
+    padding-bottom: 23;
+}
+#office{
+    position: absolute;
+    width: 716;
+    height: 300;
+    left: 455;
+    padding-top: 40;
+    text-align: left;
+}
+.contact-info{
+    float: left;
+}
+.footer-info{
+    position: relative;
+    float: left;
+    text-align: left;
+    font-size: 14;
+    padding-right: 55;
+}
+.city{
+    text-align: left;
+    padding-bottom: 21;
+}
+.addr{
+    text-align: left;
+    line-height: 21px;
+    padding-bottom: 30;
+}
+#contactus{
+    width: 180;
+    height: 38;
+    position: absolute;
+    background-color: black;
+    color: white;
+    left: 45; 
+    top: 235;
+    font-size: 10;
+    border-color: white;
+    border:3px solid;
+}
+.contact-info{
+    position: relative;
+    height: 100;
+    padding-top: 55;
+    font-size: 14;
+    text-align: left;
+
+}
+.T-E{
+    text-align: left;
+    color: #b89b1d;
+}
+.email{
+    text-decoration: underline;
+}
+#occupy{
+    position: absolute;
+    left: 335;
+    width: 533;
+    height: 136;
+}
